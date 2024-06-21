@@ -18,13 +18,13 @@
 
 ###
 
-<p align="left">That’s probably enough for starters. If you’re curious and want to know more, hit up my homepage or stalk me on social media.<br><br>Oh, and here’s the kicker – I've got some pretty out-there opinions that don't jive with what 99% of folks call "normal." So, if you’re gonna get your knickers in a twist over someone with controversial views, maybe steer clear of my social profiles.</p>
+<p align="left">That’s probably enough for starters. If you’re curious and want to know more, hit up my homepage or stalk me on social media.<br><br>Oh, and here’s the kicker – I've got some pretty out-there opinions that don't jive with what 99% of folks call "normal". So, if you’re gonna get your knickers in a twist over someone with controversial views, maybe steer clear of my social profiles.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxGripe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxGripe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxGripe&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxGripe&locale=en&hide_title=false&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
