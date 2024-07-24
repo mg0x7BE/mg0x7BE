@@ -10,11 +10,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" alt="fsharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
-</div>
+[![PowerShell](powershell.svg "PowerShell")](https://learn.microsoft.com/en-us/powershell/scripting/overview)
+[![F#](fsharp.svg "F#")](https://learn.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp)
 
 ###
 
