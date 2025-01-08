@@ -1,13 +1,8 @@
-<svg width="90" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://www.serif.com/" xml:space="preserve" enable-background="new 0 0 128 128" version="1.1">
-
- <g>
-  <title>Layer 1</title>
-  <g stroke="null">
-   <g stroke="null"  id="svg_12">
-    <path stroke="null" fill-rule="nonzero" fill="#378bba" d="m42.90682,84.07353l-39.07357,-39.07349l39.07357,-39.07357l0,19.53675l-19.53683,19.53683l19.53683,19.53675l0,19.53675z" id="svg_15"/>
-    <path stroke="null" fill-rule="nonzero" fill="#378bba" d="m42.90682,58.95483l-13.95487,-13.95478l13.95487,-13.95487l0,27.90965z" id="svg_14"/>
-    <path stroke="null" fill-rule="nonzero" fill="#30b9db" d="m45.69776,5.92647l0,19.53675l19.53675,19.53683l-19.53675,19.53675l0,19.53675l40.469,-39.07349l-40.469,-39.07357z" id="svg_13"/>
-   </g>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90px" height="90px" viewBox="0 0 90 90" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.568628%,54.509807%,72.941178%);fill-opacity:1;" d="M 42.90625 84.074219 L 3.832031 45 L 42.90625 5.925781 L 42.90625 25.464844 L 23.371094 45 L 42.90625 64.535156 Z M 42.90625 84.074219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.568628%,54.509807%,72.941178%);fill-opacity:1;" d="M 42.90625 58.953125 L 28.953125 45 L 42.90625 31.046875 Z M 42.90625 58.953125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.82353%,72.549021%,85.882354%);fill-opacity:1;" d="M 45.699219 5.925781 L 45.699219 25.464844 L 65.234375 45 L 45.699219 64.535156 L 45.699219 84.074219 L 86.167969 45 Z M 45.699219 5.925781 "/>
+</g>
 </svg>
