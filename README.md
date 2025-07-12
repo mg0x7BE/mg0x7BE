@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">That’s probably enough for starters. If you’re curious and want to know more, hit up my homepage or stalk me on social media.</p>
+<p align="left">That's probably enough for starters. If you're curious and want to know more, hit up my homepage or stalk me on social media.</p>
 
 ###
 
