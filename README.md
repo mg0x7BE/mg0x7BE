@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">That’s probably enough for starters. If you’re curious and want to know more, hit up my homepage or stalk me on social media.<br><br>Oh, and here’s the kicker – I've got some pretty out-there opinions that don't jive with what 99% of folks call "normal". So, if you’re gonna get your knickers in a twist over someone with controversial views, maybe steer clear of my social profiles.</p>
+<p align="left">That’s probably enough for starters. If you’re curious and want to know more, hit up my homepage or stalk me on social media.</p>
 
 ###
 
