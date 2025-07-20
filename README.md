@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm not a coder or a tech wizard or anything like that. I just dig computers and find them a cool way to kill time. I have a ton of interests, and they change faster than you can say "skateboard" (which, by the way, I just started learning). So, I'm not gonna bore you with a long list here.</p>
+<p align="left">I'm not a coder or a tech wizard or anything like that. I just dig computers and find them a cool way to kill time.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">That's probably enough for starters. If you're curious and want to know more, hit up my homepage or stalk me on social media.</p>
+<p align="left">If you're curious and want to know more, hit up my homepage or stalk me on social media.</p>
 
 ###
 
