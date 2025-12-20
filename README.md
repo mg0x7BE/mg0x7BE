@@ -4,3 +4,5 @@
 [![C Language](c.svg)](https://www.c-language.org)
 [![F#](fsharp-purple.svg)](https://learn.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp)
 
+[![mg's github stats](https://github-readme-stats-fast.vercel.app/api?username=mg0x7be&&locale=en&hide_border=true&theme=jolly&hide_title=true&rank_icon=github&hide_rank=true)](https://github.com/mg0x7BE?tab=repositories)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mg0x7be&locale=en&hide_border=true&theme=jolly&layout=compact&custom_title=⚙️%20Under%20the%20Hood)](https://github.com/mg0x7BE?tab=repositories)
