@@ -3,5 +3,5 @@
 > 
 
 
-[![mg's github stats](https://github-readme-stats-fast.vercel.app/api?username=mg0x7be&&locale=en&hide_border=true&theme=jolly&hide_title=true&rank_icon=github&hide_rank=true)](https://github.com/mg0x7BE?tab=repositories)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mg0x7be&locale=en&hide_border=true&theme=jolly&layout=compact)](https://github.com/mg0x7BE?tab=repositories)
+[![mg's github stats](https://github-readme-stats-fast.vercel.app/api?username=mg0x7be&&locale=en&hide_border=true&theme=default&hide_title=true&rank_icon=github&hide_rank=true)](https://github.com/mg0x7BE?tab=repositories)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mg0x7be&locale=en&hide_border=true&theme=default&layout=compact)](https://github.com/mg0x7BE?tab=repositories)
