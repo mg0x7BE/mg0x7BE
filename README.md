@@ -4,4 +4,5 @@
 
 
 [![mg's github stats](https://github-readme-stats-fast.vercel.app/api?username=mg0x7be&&locale=en&hide_border=true&theme=react&hide_title=true&rank_icon=github&hide_rank=true)](https://github.com/mg0x7BE?tab=repositories)
+&nbsp;
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mg0x7be&locale=en&hide_border=true&theme=react&layout=compact)](https://github.com/mg0x7BE?tab=repositories)
